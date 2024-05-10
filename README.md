@@ -62,7 +62,7 @@ Sample JSON for Acknowledging a Purchase Order Create a file named acknowledge_p
 json  
 
 {
-"acknowledgment_date": "2023-12-10T12:00:00"
+"acknowledgment_date": "2024-05-10T10:00:00"
 }
 
 6. Vendor Endpoints
